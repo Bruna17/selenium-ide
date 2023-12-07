@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@medv/finder": "^1.1.1",
-    "engine.io-client": "^3.4.0",
+    "engine.io-client": "^4.0.6",
     "scroll-into-view-if-needed": "^2.2.20",
     "ua-parser-js": "^0.7.19",
     "webextension-polyfill": "^0.5.0"
