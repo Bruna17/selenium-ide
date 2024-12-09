@@ -24,6 +24,6 @@
     "url": "https://github.com/SeleniumHQ/selenium-ide/issues"
   },
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.21.2"
   }
 }
